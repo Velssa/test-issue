@@ -1,9 +1,9 @@
 # test-issue
 
-Ссылка на проект:
+Ссылка на проект:<br>
 http://test.velgr.ru/
 
-Ссылка на админку:
-http://test.velgr.ru/wp-admin/
-Admin
+Ссылка на админку:<br>
+http://test.velgr.ru/wp-admin/<br>
+Admin<br>
 pluu3CT39Bu4gS
